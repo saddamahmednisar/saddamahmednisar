@@ -1,7 +1,6 @@
 - 👋  Hi! My name is Saddam Ahmed Nisar, and I'm Computer Engineer
 - 👀 I’m interested in Artificial Intelligence and Android App Development
 - 🌱I’m currently learning Artificial Intelligence and Android App Development and  working as Android app developer in Xyron Technologies pvt ltd, Islamabad, Pakistan
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can email me at saddam.janjua2001@gmail.com.
 
 
